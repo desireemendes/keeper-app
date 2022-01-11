@@ -7,7 +7,7 @@ By Dr. Angela Yu
 ## Screenshots 
 
 ### A place to store, create, and delete your notes
-!["Notes Display"]()
+!["Notes Display"](https://github.com/desireemendes/keeper-app/blob/master/public/images/keeperapp.jpeg?raw=true)
 
 ## Setup
 Install dependencies with `npm install`.
