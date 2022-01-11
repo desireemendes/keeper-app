@@ -1,7 +1,7 @@
 # Keeper
 React notes keeper app
 
-Created from the Udemy Course: The Complete 2020 Web Development Bootcamp
+Created from the Udemy Course: The Complete 2022 Web Development Bootcamp
 By Dr. Angela Yu
 
 ## Screenshots 
